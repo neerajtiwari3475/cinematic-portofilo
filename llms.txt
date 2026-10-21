@@ -1,0 +1,8 @@
+# PSYCHO2.9
+
+> Portfolio of Psycho2.9: artist, creative, storyteller. A single-page, cinematic, scroll-driven WebGL website with the tagline "Welcome to my world".
+
+The site is one page made of connected scenes: an animated hero opening, a creative universe, a journey through time, a project universe and a closing finale. Most visuals are drawn on a canvas, so the text on this page is intentionally short. Contact options (Telegram, Telegram channel, YouTube, email) are in the footer.
+
+## Pages
+- [Home](https://YOUR-DOMAIN/): the full portfolio, from the hero opening to the closing finale
